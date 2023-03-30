@@ -1,0 +1,21 @@
+
+SOURCE
+
+DATASET
+
+Netflix Movies and TV Shows  https://www.kaggle.com/shivamb/netflix-shows
+
+Netflix subscribers and revenue by country   https://www.kaggle.com/pariaagharabi/netflix2020  
+
+Netflix Original Films & IMDB Scores https://www.kaggle.com/vickysen/eda-on-netflix-movies-data/
+
+
+
+VIDEO PRESENTATION LINK
+
+Drive video link :-  https://drive.google.com/drive/folders/1LF8cODrrEVeSnQxVuSncFhRZ9ltnkTe
+
+Youtube link :- https://youtu.be/_0TlrAZel28
+
+Drive all files link :- 
+https://drive.google.com/drive/folders/1LF-8cODrrEVeSnQxVuSncFhRZ9ltnkTe
